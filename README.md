@@ -22,29 +22,25 @@ This repository documents the project's mechanical assembly, electronics integra
 
 ## Project photos
 
-Add your photos to the `images/` folder using the filenames below. Replace each placeholder with its image by removing `<!--` and `-->` around the Markdown image line.
+
 
 ### Completed printer
 
-> **Photo placeholder:** Add a clear photo of the assembled printer.
 
 <img width="3024" height="4032" alt="IMG_9157" src="https://github.com/user-attachments/assets/628cabdb-f1c1-40b1-897e-e8b87285dd41" />
 
 ### Mechanical assembly
 
-> **Photo placeholder:** Add a photo of the frame, gantry or belt assembly during the build.
 
 <img width="1200" height="1600" alt="WhatsApp Image 2022-09-29 at 1 12 53 PM" src="https://github.com/user-attachments/assets/2253f061-032e-4f9f-9e9f-27802f4c02a7" />
 
 ### Electronics and wiring
 
-> **Photo placeholder:** Add a photo showing the Octopus controller, Raspberry Pi and cable routing.
 
 <img width="2348" height="1560" alt="octopus-11-wiring-19beb1b4b4719f7327a629b125c1dade" src="https://github.com/user-attachments/assets/efdd34e4-105a-4298-b83d-99423e55c1d5" />
 
 ### Sample print
 
-> **Photo placeholder:** Add a photo of a part produced by this printer, if available, with a short caption describing the material and settings.
 
 <img width="960" height="1280" alt="WhatsApp Image 2022-11-10 at 12 38 53 AM" src="https://github.com/user-attachments/assets/3aeff458-0834-4246-8ad1-11132f9c6167" />
 ## My contribution

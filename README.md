@@ -43,8 +43,6 @@ This repository documents the project's mechanical assembly, electronics integra
 
 
 <img width="960" height="1280" alt="WhatsApp Image 2022-11-10 at 12 38 53 AM" src="https://github.com/user-attachments/assets/3aeff458-0834-4246-8ad1-11132f9c6167" />
-## My contribution
-
 
 
 ## Build documented in the report

@@ -70,7 +70,6 @@ This portfolio summary was prepared from the project's final graduation report a
 | `README.md` | Project overview, team roles and scope |
 | [docs/build-summary.md](docs/build-summary.md) | Summary of the documented build and software workflow |
 | [docs/evidence-status.md](docs/evidence-status.md) | Available evidence, documentation gaps and useful future additions |
-| [images/README.md](images/README.md) | Instructions for adding build photos |
 
 The original report, presentation, build photographs, CAD files, firmware binaries and configuration files are not bundled in this version. The project documents describe assembly and software setup, but do not establish measured print accuracy, maximum working speed or long-term reliability. No such performance claims are made here.
 

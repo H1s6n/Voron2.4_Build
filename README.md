@@ -1,6 +1,5 @@
 # Voron 2.4 R2 — Graduation Project Build
 
-A team build of a **Voron 2.4 R2 CoreXY 3D printer**, completed as a graduation project at the **College of Telecom & Electronics, Jeddah, in 2022**.
 
 **Original design:** [VoronDesign/Voron-2](https://github.com/VoronDesign/Voron-2) · **Upstream licence:** [GNU GPL v3.0](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/LICENSE) · **Repository licence:** [LICENSE](LICENSE)
 
@@ -19,7 +18,7 @@ This repository documents the project's mechanical assembly, electronics integra
 | Software | MainsailOS, Mainsail and Klipper |
 | Network connection documented | Ethernet |
 | Academic context | Bachelor-level graduation project, 2022 |
-| Supervisor | Dr. Jaber Yamani |
+
 
 ## Project photos
 
@@ -29,55 +28,28 @@ Add your photos to the `images/` folder using the filenames below. Replace each 
 
 > **Photo placeholder:** Add a clear photo of the assembled printer.
 
-<!-- ![Completed Voron 2.4 R2 printer](images/completed-printer.jpg) -->
+<img width="3024" height="4032" alt="IMG_9157" src="https://github.com/user-attachments/assets/628cabdb-f1c1-40b1-897e-e8b87285dd41" />
 
 ### Mechanical assembly
 
 > **Photo placeholder:** Add a photo of the frame, gantry or belt assembly during the build.
 
-<!-- ![Frame and gantry assembly](images/mechanical-assembly.jpg) -->
+<img width="1200" height="1600" alt="WhatsApp Image 2022-09-29 at 1 12 53 PM" src="https://github.com/user-attachments/assets/2253f061-032e-4f9f-9e9f-27802f4c02a7" />
 
 ### Electronics and wiring
 
 > **Photo placeholder:** Add a photo showing the Octopus controller, Raspberry Pi and cable routing.
 
-<!-- ![Electronics and wiring](images/electronics-wiring.jpg) -->
-
-### Software setup
-
-> **Photo placeholder:** Add a screenshot of your Mainsail interface or printer configuration. Remove private network details before uploading.
-
-<!-- ![Mainsail software setup](images/mainsail-setup.png) -->
+<img width="2348" height="1560" alt="octopus-11-wiring-19beb1b4b4719f7327a629b125c1dade" src="https://github.com/user-attachments/assets/efdd34e4-105a-4298-b83d-99423e55c1d5" />
 
 ### Sample print
 
 > **Photo placeholder:** Add a photo of a part produced by this printer, if available, with a short caption describing the material and settings.
 
-<!-- ![Sample printed part](images/sample-print.jpg) -->
-
+<img width="960" height="1280" alt="WhatsApp Image 2022-11-10 at 12 38 53 AM" src="https://github.com/user-attachments/assets/3aeff458-0834-4246-8ad1-11132f9c6167" />
 ## My contribution
 
-My assigned role in the final report was **software installation**. The software workflow documented in the report covers:
 
-- Preparing the Raspberry Pi SD card using Raspberry Pi Imager.
-- Installing MainsailOS and accessing the Mainsail web interface.
-- Preparing Klipper firmware for the Octopus controller and transferring the firmware using an SD card.
-- Creating `printer.cfg` from the official Voron configuration and identifying build-specific settings to change.
-- Connecting the Raspberry Pi to the network over Ethernet for setup and access.
-
-These activities used existing software and official configuration templates. This project does not claim original development of Voron, Klipper or Mainsail.
-
-## Team contributions
-
-Roles below follow the division of work recorded in the graduation report.
-
-| Team member | Assigned responsibility |
-|---|---|
-| Khaled Bediwi | Team leader and hardware installation |
-| Hassan | Software installation |
-| Osama Althubyani | Coding |
-| Basel Aljohani | Electrical connections |
-| Hussam Almuntshri | Research, component sourcing and administrative tasks |
 
 ## Build documented in the report
 
@@ -127,7 +99,6 @@ Use the official manuals for the exact printer revision and installed electronic
 - **Klipper:** [Official project](https://www.klipper3d.org/).
 - **Mainsail:** [Official documentation](https://docs.mainsail.xyz/).
 - **BIGTREETECH:** Octopus V1.1 controller platform.
-- **Academic supervision:** Dr. Jaber Yamani, College of Telecom & Electronics.
 
 Original project records: *VORON 2.4 R2 3D PRINTER*, graduation report, 2022; and *Voron 2.4_WK2*, project presentation.
 

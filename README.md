@@ -1,6 +1,6 @@
 # Voron 2.4 R2 — Graduation Project Build
 
-A team build of a **Voron 2.4 R2 CoreXY 3D printer**, completed as a graduation project at the **College of Telecom & Electronics, Jeddah, in 2022**.
+
 
 This repository documents the project's mechanical assembly, electronics integration and software setup. The printer uses the existing **Voron Design** platform. The team's work focused on building and integrating the system, with my primary responsibility being **software installation**.
 
@@ -28,18 +28,6 @@ My assigned role in the final report was **software installation**. The software
 - Connecting the Raspberry Pi to the network over Ethernet for setup and access.
 
 These activities used existing software and official configuration templates. This project does not claim original development of Voron, Klipper or Mainsail.
-
-## Team contributions
-
-Roles below follow the division of work recorded in the graduation report.
-
-| Team member | Assigned responsibility |
-|---|---|
-| Khaled Bediwi | Team leader and hardware installation |
-| Hassan | Software installation |
-| Osama Althubyani | Coding |
-| Basel Aljohani | Electrical connections |
-| Hussam Almuntshri | Research, component sourcing and administrative tasks |
 
 ## Build documented in the report
 
